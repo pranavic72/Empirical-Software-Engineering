@@ -23,10 +23,10 @@ To review the experiment flow, please follow the links in the order presented be
 
 | Phase | Component | Link / Resource |
 | :--- | :--- | :--- |
-| **Phase I** | **Pre-Task Comprehension Quiz** | [[LINK TO GOOGLE FORM - PRE TASK](https://forms.gle/RqV6accwCw1DYaT37)] |
-| **Phase II** | **Debugging Task (Group A - Control)** | [[LINK TO REPLIT - GROUP A](https://forms.gle/Dsq1jXfiF6dGdm9X7)] |
-| **Phase II** | **Debugging Task (Group B - Treatment)** | [[LINK TO REPLIT - GROUP B](https://forms.gle/iYpCJ3drLsTZeE7M9)] |
-| **Phase IV** | **Post-Task Evaluation Quiz** | [[LINK TO GOOGLE FORM - POST TASK](https://forms.gle/aUpgpJFpBosCKbax7)] |
+| **Phase I** | **Pre-Task Comprehension Quiz** | [[LINK](https://forms.gle/RqV6accwCw1DYaT37)] |
+| **Phase II** | **Debugging Task (Group A - Control)** | [[LINK](https://forms.gle/Dsq1jXfiF6dGdm9X7)] |
+| **Phase II** | **Debugging Task (Group B - Treatment)** | [[LINK](https://forms.gle/iYpCJ3drLsTZeE7M9)] |
+| **Phase IV** | **Post-Task Evaluation Quiz** | [[LINK](https://forms.gle/aUpgpJFpBosCKbax7)] |
 
 > **Note:** In the real scenario, participants would be assigned to *either* Group A or Group B, not both.
 
